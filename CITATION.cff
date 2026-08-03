@@ -13,4 +13,9 @@ authors:
     email: savannahgramze@ufl.edu
     affiliation: University of Florida
     orcid: 'https://orcid.org/0000-0002-1313-429X'
+  - given-names: Dani R.
+    family-names: Lipman
+    email: dani.lipman@uconn.edu
+    affiliation: University of Connecticut
+    orcid: 'https://orcid.org/0000-0002-5776-9473'
 repository-code: 'https://github.com/ACES-CMZ/ACES_EVF_HVCC'
