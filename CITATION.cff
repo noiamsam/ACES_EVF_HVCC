@@ -8,9 +8,9 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Savannah
-    family-names: Gramze
-    email: savannahgramze@ufl.edu
-    affiliation: University of Florida
-    orcid: 'https://orcid.org/0000-0002-1313-429X'
+  - given-names: Samantha
+    family-names: Adams
+    email: samantha.2.adams@uconn.edu
+    affiliation: University of Connecticut
+    orcid: 'https://orcid.org/0009-0003-6268-660X'
 repository-code: 'https://github.com/ACES-CMZ/ACES_EVF_HVCC'
