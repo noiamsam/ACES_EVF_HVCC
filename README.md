@@ -19,9 +19,9 @@ The code used for analysis is in the main aces_evf/ directory, including the fol
 				
 **'make_mom0_and_ratio-maps_3sigma_masking.py'**, **'make_mom0_and_ratio-maps_3sigma_masking_HNCO_MOM0_ONLY.py'** : Creation of mom0 and line ratio maps for all ACES lines **'make_mom0_and_ratio_maps.py'** was the original test version before breaking up into the 3sigma masks.
 
-**'50kmsC_HVCCs.ipynb'** : Exploring overlaf of HVCCs on the 50 km/s cloud. Used for creating Figure 8 from the paper. 				
+**'50kmsC_HVCCs.ipynb'** : Exploring overlap of HVCCs on the 50 km/s cloud and CND area in spatial and velocity space. Used for creating Figures 9 and 10 from the paper. 				
 
-**'make_pv_linewidth.ipynb'** : calculation of FWHM values and statistics (Figs 4, 6, 10, 11) 
+**'make_pv_linewidth.ipynb'** : calculation of FWHM values and statistics (Figs 5, 7, 11, 12) 
 
 **'pv_maker.py'** : Creation of PV slices for visual inspection
 

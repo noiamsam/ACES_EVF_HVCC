@@ -8,6 +8,16 @@ message: >-
   metadata from this file.
 type: software
 authors:
+  - given-names: Savannah
+    family-names: Gramze
+    email: savannahgramze@ufl.edu
+    affiliation: University of Florida
+    orcid: 'https://orcid.org/0000-0002-1313-429X'
+  - given-names: Dani R.
+    family-names: Lipman
+    email: dani.lipman@uconn.edu
+    affiliation: University of Connecticut
+    orcid: 'https://orcid.org/0000-0002-5776-9473'
   - given-names: Samantha
     family-names: Adams
     email: samantha.2.adams@uconn.edu
